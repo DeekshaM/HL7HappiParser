@@ -1,0 +1,5 @@
+FirstName=venu
+LastName=gopal
+DOB=28/01/1980
+Gender=M
+Address1=punjagutta
